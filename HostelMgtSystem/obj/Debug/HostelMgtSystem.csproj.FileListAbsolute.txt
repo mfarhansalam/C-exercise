@@ -1,0 +1,11 @@
+C:\Users\CUSTOM PC\source\repos\mini projek\HostelMgtSystem\HostelMgtSystem\bin\Debug\HostelMgtSystem.exe.config
+C:\Users\CUSTOM PC\source\repos\mini projek\HostelMgtSystem\HostelMgtSystem\bin\Debug\HostelMgtSystem.exe
+C:\Users\CUSTOM PC\source\repos\mini projek\HostelMgtSystem\HostelMgtSystem\bin\Debug\HostelMgtSystem.pdb
+C:\Users\CUSTOM PC\source\repos\mini projek\HostelMgtSystem\HostelMgtSystem\obj\Debug\HostelMgtSystem.csprojAssemblyReference.cache
+C:\Users\CUSTOM PC\source\repos\mini projek\HostelMgtSystem\HostelMgtSystem\obj\Debug\HostelMgtSystem.Properties.Resources.resources
+C:\Users\CUSTOM PC\source\repos\mini projek\HostelMgtSystem\HostelMgtSystem\obj\Debug\HostelMgtSystem.csproj.GenerateResource.cache
+C:\Users\CUSTOM PC\source\repos\mini projek\HostelMgtSystem\HostelMgtSystem\obj\Debug\HostelMgtSystem.csproj.CoreCompileInputs.cache
+C:\Users\CUSTOM PC\source\repos\mini projek\HostelMgtSystem\HostelMgtSystem\obj\Debug\HostelMgtSystem.exe
+C:\Users\CUSTOM PC\source\repos\mini projek\HostelMgtSystem\HostelMgtSystem\obj\Debug\HostelMgtSystem.pdb
+C:\Users\CUSTOM PC\source\repos\mini projek\HostelMgtSystem\HostelMgtSystem\obj\Debug\HostelMgtSystem.Home.resources
+C:\Users\CUSTOM PC\source\repos\mini projek\HostelMgtSystem\HostelMgtSystem\obj\Debug\HostelMgtSystem.Room.resources
